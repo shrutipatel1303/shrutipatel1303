@@ -7,7 +7,7 @@
 - 💬 I'm an enthusiast in graphic designing and would love to explore it more.
 - 📫 About Me: Capability to work in teams by providing valuable support. Ability to learn new software and technologies quickly. 
 - 😄 Hobbies: Fuild Art, Craft(Origami), Cooking and Adventure Sports.
-- ⚡ Fun fact: A very lively soul.
+- ⚡ A fact: A very lively soul.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/i n/shruti-patel-6634401b7/) 
